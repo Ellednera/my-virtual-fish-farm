@@ -22,5 +22,5 @@ Term::ANSIColor and Term::ANSIColor::WithWin32 are not own by me and the source 
 
 These modules are just included for convenience sake so that you can run the source file without the need to install the modules. Very portable indeed :)
 
-You can find the respective module owners and their licenses by searching the module names at (https://metacpan.org)
+You can find the respective module owners and their licenses by searching the module names at [metacpan](https://metacpan.org)
 
